@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
